@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Powershell-Host": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
